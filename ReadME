@@ -1,7 +1,7 @@
 Submission to AIFA Assignment-1(Electric Vechile)--
 
 
-The A_star_heuristic.py file and the dfbb.py file are the files as requirement to the assignment.
+The A_star_heuristic.py file and the depth_first_search.py file are the files as requirement to the assignment(Optimal and Hurestic solution).
 All the parameteres are supossed to be entered manually.
 
 
